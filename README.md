@@ -19,7 +19,7 @@ The results will be saved in a file within the folder where the tools are locate
 
 To run the tools, open the command prompt and navigate to the folder where the tools are located.
 
-You can use the command "python3 kk-tool-1.py" for the first tool, or "python3 kk-tool-2.py" for the second tool.
+You can use the command "python3 analysis-tool.py" for the first tool, or "python3 site-searcher-2.py" for the second tool.
 
 The tools have been localized and improved. Thank you!
 
